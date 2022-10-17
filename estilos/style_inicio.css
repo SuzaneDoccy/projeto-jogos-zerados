@@ -1,2 +1,36 @@
 @charset "UTF-8";
 
+@font-face {
+    font-family:'FakeHope';
+    src: url(fontes/FakeHopettf) format(truetype);
+}
+@font-face {
+    font-family:'Monoton';
+    src: url(fontes/Monoton-Regular.ttf) format(truetype);
+}
+@font-face {
+    font-family:'Nabla';
+    src: url(fontes/Nabla-Regular.ttf) format(truetype);
+}
+@font-face {
+    font-family:'PressStard';
+    src: url(fontes/PressStardeP-Regular.ttf) format(truetype);
+}
+
+:root{
+    --cor0:#ffd079;
+    --cor1:#F8BC2D;
+    --cor2:#D99227;
+    --cor3:#F0BE37;
+    --cor4:#D96027;
+    --cor5:#F8502D;
+
+    /* --font-padrão:;
+        --font-normal:;
+        --font-destaque:;
+    */
+    --fontFake:FakeHope;
+    --fontMonoton:Monoton;
+    --fontNabla:Nabla;
+    --fontPress:PressStard;
+}
