@@ -1,8 +1,6 @@
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
 @import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
 
 :root{
@@ -15,8 +13,5 @@
 
     --font-padrão: Arial, Helvetica, sans-serif;
     --font-normal:'Courier New', Courier, monospace;
-    --font-destaque1: 'Silkscreen', cursive;
-    --font-destaque2: 'Orbitron', sans-serif;
-    --font-destaque3: 'Nabla', cursive;
-    --font-destaque4: 'Monoton', cursive;
+    --font-destaqueM: 'Monoton', cursive;
 }

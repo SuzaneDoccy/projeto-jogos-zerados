@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+:root{
+    --cor0:#ffd079;
+    --cor1:#ffbb00d2;
+    --cor2:#F8BC2D;
+    --cor3:#D99227 ;
+    --cor4:#f3783f;
+    --cor5:#F8502D;
+
+    --font-padrão: Arial, Helvetica, sans-serif;
+    --font-normal:'Courier New', Courier, monospace;
+    --font-destaqueN: 'Nabla', cursive;
+}
+
