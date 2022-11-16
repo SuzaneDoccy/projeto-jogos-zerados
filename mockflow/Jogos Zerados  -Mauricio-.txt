@@ -1,26 +1,53 @@
+Lista de plataformas e quantidades
+
+N64(Nintendo 64):8
+SNES(Super Nintendo):13
+GBA(Super Nintendo):4
+NES(Nintendo Entretainement Sistem):3
+NDS(Nintendo Ds):1
+Android:9
+PSP(PlayStation Portable):26
+PS1(Plastation):22
+Sega Genesis(Mega Drive):8
+Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):6
+PS2(Playstation 2):5
+PC(Computador):72
+Sega Dreamcast:3
+PS3(Playstation 3):70
+Nintendo Gamecube:9
+3DS(Nintendo 3DS):2
+Nintendo Wii:9
+Nintendo WiiU:1
+Nintendo Switch:11
+Xcloud:2
+Total:283
+
+
+Jogos
+
 -Star Fox 64 (Nintendo 64)
 -Super Mario 64 (Nintendo 64)           
--Kirby The Cristal Shards (Nintendo 64)           Total:283
--Paper Mario (Nintendo 64)                        N64(Nintendo 64):8
--Banjo & Kazooie (Nintendo 64)                    SNES(Super Nintendo):13
--Super Mario Rpg (Super Nintendo)                 GBA(Super Nintendo):4
--Super Mario World (Super Nintendo)               NES(Nintendo Entretainement Sistem):3
--Star Fox (Super Nintendo)                        NDS(Nintendo Ds):1
--Kirby Superstar (Super Nintendo)                 Android:9
--Wild Guns(Super Nintendo)                        PSP(PlayStation Portable):26             
--Megaman & Bass (Gameboy Advance & Super Nintendo)PS1(Plastation):22
--Mega Man X (Super Nintendo & Psp)                Sega Genesis(Mega Drive):8
--Mega Man X2 (Super Nintendo)                     Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):6
--Mega Man X3 (Super Nintendo & Playstation 1)     PS2(Playstation 2):5
--Megaman X4 (Playstation 1 & Pc)                  PC(Computador):72
--Mega Man X5 (Playstation 1 & Pc)                 Sega Dreamcast:3
--Mega Man X6 (Playstation 1)                      PS3(Playstation 3):70
--Mega Man X7 (Playstation 2)                      Nintendo Gamecube:9
--Mega Man X8 (Playstation 2 & PC)                 3DS(Nintendo 3DS):2
--Mega Man Legends (Playstation 1)                 Nintendo Wii:9
--Sunset Riders (Super Nintendo)                   Nintendo WiiU:1
--Castlevania (Nes)                                Nintendo Switch:11
--Castlevania Syphony Of The Night (Playstation 1) Xcloud:2
+-Kirby The Cristal Shards (Nintendo 64)           
+-Paper Mario (Nintendo 64)                       
+-Banjo & Kazooie (Nintendo 64)                   
+-Super Mario Rpg (Super Nintendo)                 
+-Super Mario World (Super Nintendo)               
+-Star Fox (Super Nintendo)                        
+-Kirby Superstar (Super Nintendo)                 
+-Wild Guns(Super Nintendo)                                     
+-Megaman & Bass (Gameboy Advance & Super Nintendo)
+-Mega Man X (Super Nintendo & Psp)                
+-Mega Man X2 (Super Nintendo)                     
+-Mega Man X3 (Super Nintendo & Playstation 1)     
+-Megaman X4 (Playstation 1 & Pc)                  
+-Mega Man X5 (Playstation 1 & Pc)                
+-Mega Man X6 (Playstation 1)                      
+-Mega Man X7 (Playstation 2)                      
+-Mega Man X8 (Playstation 2 & PC)                 
+-Mega Man Legends (Playstation 1)                 
+-Sunset Riders (Super Nintendo)                   
+-Castlevania (Nes)                                
+-Castlevania Syphony Of The Night (Playstation 1) 
 -Alundra (Playstation 1)
 -Super Puzzle Bubble (Nintendo 64)
 -The King Of Fighters 98 (Neo Geo)

@@ -67,13 +67,13 @@ main{
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
-h1{
+ h1{
     font-family: var(--font-padrao);
     font-size: 2em;
     margin: 20px;
     color: var(--cor5);
  }
-h2{
+ h2{
     font-family: var(--font-padrao);
     font-size: 2em;
     margin: 20px;
@@ -85,46 +85,29 @@ p{
     text-indent: 20px;
     line-height: 2em;
 }
+blockquote{
+    text-align: justify;
+    text-indent: 20px;
+    font-family: var(--font-normal);
+
+}
+blockquote > a{
+    text-decoration: none;
+    color: var(--cor5);
+}
+blockquote > a:hover{
+    text-decoration: underline;
+}
+blockquote.link_externo > a:visited{
+    color: aquamarine;
+}
 hr{
     margin-top: 30px;
     color: black;
 }
 
-/* Configurações da Tabela */
+/* Configurações dos botões*/
 
-table{
-    margin: auto;
-    border-collapse: collapse;
-    position: relative;
-    font-family: var(--font-normal);
-}
-thead > tr > th{
-    position: sticky;
-    top: -1px;
-    background-color: var(--cor4);
-}
-td, th{
-    border: 1px solid black;
-    padding: 10px;
-}
-thead, tfoot{
-    background-color: var(--cor4);
-    color: white;
-}
-tbody > tr:nth-child(odd){ /* 2n-1 */
-    background-color: var(--cor0);
-}
-tbody > tr:nth-child(even){ /*2n */
-    background-color: var(--cor2);
-}
-
-/* Configurações dos Botões */
-
-div{
-    margin: 25px 15px;
-    display: block;
-    text-align: center;
-}
 button{
     font-family: var(--font-normal);
     margin: 5px 10px;
@@ -146,36 +129,22 @@ button{
     background-image: linear-gradient( to bottom, white, lightgray );
     transition-duration: 2s;
 }
-.btn-navegacao{
-    background-image: linear-gradient( to bottom,lightgray, white);
-    font-family: var(--font-normal);
-    cursor: pointer;
-    text-align: center;
-    padding: 10px 8px;
-    border-radius: 8px;
-    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.63);
-}
-.btn-navegacao:hover{
-    background-image: linear-gradient( to bottom, white, lightgray );
-    transition-duration: 2s;
-}
 
-/* Configurações do Rodapé */
+/* Configurações do Iframe*/
+
+/* Configurações do Rodapé*/
 
 footer{
     background-color: var(--cor5);
     color: white;
     text-align: center;
     font-size: 0.8em;
-    padding: 5px;
+    padding:5px;
 }
-footer a{
-    text-decoration: none;
-    color: var(--cor0);
-} 
 footer a:hover{
     text-decoration: underline;
-}
+    color: var(--cor0);
+} 
 footer a:visited{
     color: aquamarine;
 }
