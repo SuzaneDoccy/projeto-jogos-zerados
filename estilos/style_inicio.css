@@ -16,8 +16,8 @@
     --cor4:#f3783f;
     --cor5:#F8502D;
 
-    --font-padrão: Arial, Helvetica, sans-serif;
-    --font-normal:'Courier New', Courier, monospace;
+    --font-normal: Arial, Helvetica, sans-serif;
+    --font-padrao:'Courier New', Courier, monospace;
     --font-destaque: 'Monoton', cursive;
 }
 
@@ -40,14 +40,14 @@ header > h1{
 }
 header > p{
     font-family: var(--font-padrao);
-    font-size: 1.2em;
+    font-size: 1.4em;
     color: white;
     max-width: 600px;
     margin: auto;
     padding-bottom: 30px;
     padding-left: 10px;
     padding-right: 10px;
-    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.479);
 }
 nav{
 
@@ -57,7 +57,7 @@ nav{
 
 body{
     background-color: var(--cor0);
-    font-family: var(--font-padrao);
+    font-family: var(--font-normal);
 }
 main{
     background-color: white;
@@ -73,8 +73,13 @@ main{
 h1{
     font-family: var(--font-destaque);
 }
+h2{
+    font-family: var(--font-destaque);
+    font-size: 2em;
+}
 p{
     text-indent: 20px;
+    line-height: 2em;
 }
 
 /* Configurações da Tabela */
@@ -104,40 +109,48 @@ td{
 /* Configurações dos Botões */
 
 div{
-    margin: 200px;
-    padding:px;
-    width:px;
-    height:px;
+    margin: 25px 15px;
     display: block;
     text-align: center;
 }
+button{
+    font-family: var(--font-normal);
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 2px solid black;
+    background-color: white;
+    font-size: 16px;
+    padding: 12px 20px;
+    border-color: var(--cor4);
+}
 .btn-cabecalho{
-    color: white;
-    background-color: var(--cor2);
     cursor: pointer;
     text-align: center;
     padding: 10px 8px;
     border-radius: 8px;
-    border: none;
     box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.363);
 }
 .btn-cabecalho:hover{
-    box-shadow: 1px 1px 3px 4px #ffd079;
-    transition-duration: 2s;
+    font-family: var(--font-padrao);
+    background-color: var(--cor0);
+    border:none;
+    box-shadow: 1px 1px 3px 4px var(--cor0);
+    transition-duration: 1.5s;
 }
 .btn-navegacao{
-    color: white;
-    background-color: var(--cor2);
     cursor: pointer;
     text-align: center;
     padding: 10px 8px;
     border-radius: 8px;
-    border: none;
     box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.63);
 }
 .btn-navegacao:hover{
-    box-shadow: 1px 1px 3px 4px #ff0000;
-    transition-duration: 2s;
+    font-family: var(--font-padrao);
+    background-color: var(--cor3);
+    color: white;
+    border:none;
+    box-shadow: 1px 1px 3px 4px var(--cor3);
+    transition-duration: 1.5s;
 }
 
 /* Configurações do Rodapé */
