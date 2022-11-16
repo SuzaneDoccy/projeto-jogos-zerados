@@ -67,17 +67,19 @@ main{
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
- h1{
+main > h1{
     font-family: var(--font-padrao);
     font-size: 2em;
     margin: 20px;
-    color: var(--cor5);
+    border: 8px solid var(--cor2);
+    border-style: groove;
  }
- h2{
+ main > h2{
     font-family: var(--font-padrao);
     font-size: 2em;
     margin: 20px;
-    color: var(--cor5);
+    border: 8px solid var(--cor2);
+    border-style: groove;
 }
 p{
     margin: 10px;
@@ -130,7 +132,35 @@ button{
     transition-duration: 2s;
 }
 
+/* Configurações da lista */
+
+ul{
+    width: 400px;
+    text-align: left;
+}
+ul > a{
+    color: black;
+    font-family: var(--font-padrao);
+    text-decoration: none;
+}
+ul > a:hover{
+    text-indent: 40px;
+    color:var(--cor4);
+    transition-duration: 5s;
+}
+li{
+    list-style-type: none;
+}
+div{
+    display: inline-block;
+}
+
 /* Configurações do Iframe*/
+
+img{
+    text-align: right;
+    height: 450px;
+}
 
 /* Configurações do Rodapé*/
 

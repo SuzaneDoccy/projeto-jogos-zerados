@@ -2,7 +2,7 @@ Lista de plataformas e quantidades
 
 N64(Nintendo 64):8
 SNES(Super Nintendo):13
-GBA(Super Nintendo):4
+GBA(Gameboy Advance):4
 NES(Nintendo Entretainement Sistem):3
 NDS(Nintendo Ds):1
 Android:9
