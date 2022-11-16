@@ -3,7 +3,7 @@
 -Kirby The Cristal Shards (Nintendo 64)           Total:283
 -Paper Mario (Nintendo 64)                        N64(Nintendo 64):8
 -Banjo & Kazooie (Nintendo 64)                    SNES(Super Nintendo):13
--Super Mario Rpg (Super Nintendo)                 GBA(Gameboy Advance):4
+-Super Mario Rpg (Super Nintendo)                 GBA(Super Nintendo):4
 -Super Mario World (Super Nintendo)               NES(Nintendo Entretainement Sistem):3
 -Star Fox (Super Nintendo)                        NDS(Nintendo Ds):1
 -Kirby Superstar (Super Nintendo)                 Android:9
