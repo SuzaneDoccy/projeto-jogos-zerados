@@ -142,24 +142,30 @@ ul > a{
     color: black;
     font-family: var(--font-padrao);
     text-decoration: none;
+    margin-top: -150px;
 }
-ul > a:hover{
+ul > a:hover{ 
     text-indent: 40px;
     color:var(--cor4);
     transition-duration: 5s;
+    text-decoration: line-through;
 }
 li{
     list-style-type: none;
 }
 div{
     display: inline-block;
+    padding-bottom: 20px;
 }
 
 /* Configurações do Iframe*/
-
-img{
-    text-align: right;
+section#telefone{
+    display: inline-block;
+    width: 220px;
     height: 450px;
+    margin-left: 40px;
+    background: url('../imagens/frame-iphone.png') no-repeat;
+    background-size: cover;
 }
 
 /* Configurações do Rodapé*/
