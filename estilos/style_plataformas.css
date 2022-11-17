@@ -137,7 +137,8 @@ button{
 ul{
     display: inline-block;
     padding-bottom: 20px;
-    padding-right: 50px;
+    padding-right: 100px;
+    padding-left: 40px;
 }
 ul > a{
     color: black;
@@ -151,13 +152,12 @@ ul > a:hover{
     font-size: 1.1em;
 }
 li{
-    text-align: center;
+    text-align: left;
     list-style-type: none;
 }
 div{
     text-align: center;
     padding-bottom: 20px;
-    padding: 0px -80px;
     margin: 20px;
     border: #ffd079;
     border-style: dashed;
@@ -177,14 +177,16 @@ a#ancora:hover{
 /* Configurações do Iframe*/
 iframe#tela{
     box-shadow: 2px 5px 7px 4px rgba(0, 0, 0, 0.438);
-    margin: 0px 20px;
+    margin: 0px 10px;
     width: 300px;
-    height: 400px;
-    top: -250px;
-    left: -200px;
-    border-radius: 0%;
+    height: 500px;
+    border-radius: 5%;
     font-size: 1em;
     background-image: linear-gradient(to bottom, var(--cor0), var(--cor3));
+}
+iframe{
+    min-width: 230px;
+    max-width: ;
 }
 
 /* Configurações do Rodapé*/
