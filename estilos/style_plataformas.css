@@ -182,7 +182,8 @@ iframe#tela{
     top: -250px;
     left: -200px;
     border-radius: 0%;
-    background-color: #F8502D;
+    font-size: 1em;
+    background-image: linear-gradient(to bottom, var(--cor0), var(--cor3));
 }
 
 /* Configurações do Rodapé*/
