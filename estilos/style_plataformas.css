@@ -58,7 +58,7 @@ body{
 }
 main{
     background-color: white;
-    min-width: 300px;
+    min-width: 270px;
     max-width: 1000px;
     margin: auto;
     margin-bottom: 30px;
@@ -135,37 +135,55 @@ button{
 /* Configurações da lista */
 
 ul{
-    width: 400px;
     text-align: left;
+    margin: 20px 0px;
+    padding: 10px 0px;
+    border: #ffd079;
+    border-style: dashed;
 }
 ul > a{
     color: black;
     font-family: var(--font-padrao);
     text-decoration: none;
-    margin-top: -150px;
+    
 }
 ul > a:hover{ 
-    text-indent: 40px;
     color:var(--cor4);
     transition-duration: 5s;
     text-decoration: line-through;
+    font-size: 1.1em;
 }
 li{
+    text-align: center;
     list-style-type: none;
 }
 div{
-    display: inline-block;
     padding-bottom: 20px;
+}
+a#ancora{
+    color: black;
+    font-family: var(--font-padrao);
+    text-decoration: none;
+}
+a#ancora:hover{
+    color:var(--cor5);
+    transition-duration: 5s;
+    text-decoration: line-through;
+    font-size: 1.1em;
 }
 
 /* Configurações do Iframe*/
 section#telefone{
-    display: inline-block;
-    width: 220px;
-    height: 450px;
-    margin-left: 40px;
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    
+    width: 100vw;
+    height: 100vh;
+    /*margin-left: 40px;*/
+    background-color: black;
+    /*background: url('../imagens/frame-iphone.png') no-repeat;*/
     background-size: cover;
+}
+iframe{
+
 }
 
 /* Configurações do Rodapé*/
