@@ -1,10 +1,11 @@
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
 
 *{
-    margin: 0%;
+    margin: -1%;
     padding: 0%;
+    user-select: text;
 }
 
 :root{
@@ -17,45 +18,177 @@
 
     --font-padrão: Arial, Helvetica, sans-serif;
     --font-normal:'Courier New', Courier, monospace;
-    --font-destaqueN: 'Nabla', cursive;
+    --font-destaque: 'Monoton', cursive;
 }
 
 /* Configurações do Cabeçalho */
 
 header{
-
+    background-image: linear-gradient(to bottom, var(--cor5), var(--cor3));
+    min-height: 150px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+header > h1{
+    color: white;
+    font-family: var(--font-destaque);
+    font-size: 3em;
+    font-weight: normal;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
+}
+header > p{
+    font-family: var(--font-padrao);
+    font-size: 1.4em;
+    color: white;
+    max-width: 600px;
+    margin: auto;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.479);
 }
 nav{
+    text-align: left;
+    margin-left: 60px;
+    padding-top: 10px;
+}
 
+/* Configurações dos botões */
+
+button{
+    font-family: var(--font-normal);
+    margin: 5px 10px;
+    border: 2px solid black;
+    background-color: white;
+    font-size: 16px;
+    padding: 12px 20px;
+    border-color: var(--cor4);
+}
+.btn-cabecalho{
+    background-image: linear-gradient( to bottom,lightgray, white);
+    cursor: pointer;
+    text-align: center;
+    padding: 10px 8px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.63);
+}
+.btn-cabecalho:hover{
+    background-image: linear-gradient( to bottom, white, lightgray );
+    transition-duration: 2s;
 }
 
 /* Confiurações do corpo*/
 
 body{
-
+    background-color: var(--cor0);
+    font-family: var(--font-normal);
 }
 main{
-
+    background-color: white;
+    min-width: 250px;
+    max-width: 1000px;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.459);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
-h1{
-
-}
+main > h1{
+    font-family: var(--font-padrao);
+    font-size: 2em;
+    margin: 20px;
+    border: 8px solid var(--cor2);
+    border-style: groove;
+ }
 p{
-
+    margin: 10px;
+    margin-bottom: 10px;
+    text-indent: 20px;
+    line-height: 2em;
+}
+img{
+    display: block;
+    margin: auto;
+    padding-bottom: 10px;
 }
 
 /* Configurações do Iframe*/
 
+iframe#tela{
+    box-shadow: 2px 5px 7px 4px rgba(0, 0, 0, 0.438);
+    margin: 0px 10px;
+    width: 300px;
+    height: 500px;
+    border-radius: 5%;
+    font-size: 1em;
+    background-image: linear-gradient(to bottom, var(--cor0), var(--cor3));
+}
 iframe{
+    min-width: 230px;
+    max-width: 500px;
+}
 
+/* Configurações da lista */
+
+ul{
+    background-color: #f3783f;
+    margin-top: -50px;
+    display: inline-block;
+    padding-bottom: 20px;
+    padding-right: 100px;
+    padding-left: 40px;
+}
+ul > a{
+    color: black;
+    font-family: var(--font-padrao);
+    text-decoration: none;
+}
+ul > a:hover{ 
+    color:var(--cor4);
+    transition-duration: 5s;
+    text-decoration: line-through;
+    font-size: 1.1em;
+}
+li{
+    text-align: left;
+    list-style-type: none;
+}
+div{
+    text-align: center;
+    padding-bottom: 20px;
+    margin: 20px;
+    border: #ffd079;
+    border-style: dashed;
+}
+a#ancora{
+    color: black;
+    font-family: var(--font-padrao);
+    text-decoration: none;
+}
+a#ancora:hover{
+    color:var(--cor5);
+    transition-duration: 5s;
+    text-decoration: line-through;
+    font-size: 1.1em;
 }
 
 /* Configurações do Rodapé*/
 
 footer{
-
+    background-color: var(--cor5);
+    color: white;
+    text-align: center;
+    font-size: 0.8em;
+    padding:5px;
 }
-footer > a{
-
+footer a:hover{
+    text-decoration: underline;
+    color: var(--cor0);
+} 
+footer a:visited{
+    color: aquamarine;
 }
 

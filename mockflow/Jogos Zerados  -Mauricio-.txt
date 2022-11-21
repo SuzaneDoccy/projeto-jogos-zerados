@@ -1,4 +1,4 @@
-Lista de plataformas e quantidades
+﻿Lista de plataformas e quantidades
 
 N64(Nintendo 64):8
 SNES(Super Nintendo):13
@@ -25,169 +25,256 @@ Total:283
 
 Jogos
 
+N64(Nintendo 64):8                  |V|
 -Star Fox 64 (Nintendo 64)
 -Super Mario 64 (Nintendo 64)           
 -Kirby The Cristal Shards (Nintendo 64)           
 -Paper Mario (Nintendo 64)                       
--Banjo & Kazooie (Nintendo 64)                   
+-Banjo & Kazooie (Nintendo 64) 
+-Super Puzzle Bubble (Nintendo 64)
+-The Legend Of Zelda Ocarina Of Time (Nintendo 64)
+-The Legend Of Zelda Majora´s Mask (Nintendo 64)
+
+
+
+SNES(Super Nintendo):13      |V|
+-Mega Man X (Super Nintendo)   
+-Mega Man X2 (Super Nintendo)               
+-Mega Man X3 (Super Nintendo) 
+-Sunset Riders (Super Nintendo)   
 -Super Mario Rpg (Super Nintendo)                 
 -Super Mario World (Super Nintendo)               
 -Star Fox (Super Nintendo)                        
 -Kirby Superstar (Super Nintendo)                 
--Wild Guns(Super Nintendo)                                     
--Megaman & Bass (Gameboy Advance & Super Nintendo)
--Mega Man X (Super Nintendo & Psp)                
--Mega Man X2 (Super Nintendo)                     
--Mega Man X3 (Super Nintendo & Playstation 1)     
--Megaman X4 (Playstation 1 & Pc)                  
--Mega Man X5 (Playstation 1 & Pc)                
--Mega Man X6 (Playstation 1)                      
--Mega Man X7 (Playstation 2)                      
--Mega Man X8 (Playstation 2 & PC)                 
--Mega Man Legends (Playstation 1)                 
--Sunset Riders (Super Nintendo)                   
--Castlevania (Nes)                                
--Castlevania Syphony Of The Night (Playstation 1) 
--Alundra (Playstation 1)
--Super Puzzle Bubble (Nintendo 64)
--The King Of Fighters 98 (Neo Geo)
--Mega Man The Power Fighters (Cps2)
--Battle Circuit (Cps2)
--Lego Star Wars 2(Pc)
--Lego Star Wars The Complete Saga(Pc)
--Blazing Star (Neo Geo)
--Alien Vs Predator (Cps2)
--Sonic & Knucles (Genesis)
--Sonic The Hedgehog 2 (Genesis)
--Final Fantasy 7 (Playstation 1)
--Duegons & Dragons Shadow Over Mystara(Cps2)
--The Simpsons Game (MAME)
--God Of War (Playstation 2)
--God Of War 2 (Playstation 2)
+-Wild Guns(Super Nintendo) 
+-Megaman & Bass (Super Nintendo)
+-Knights Of The Round (Super Nintendo) 
+-The Legend Of Zelda A Link To The Past (Super Nintendo)
+-Star Fox 2(Super Nintendo)
+
+
+
+
+GBA(Gameboy Advance):4        |V|
+-Megaman & Bass (Gameboy Advance)
+-Summon Night Swordcraft Story(Gba)
+-The legend of Zelda The Minish Cap(Gba)
+-The legend of Zelda Four Swords (GBA)
+
+
+
+
+NES(Nintendo Entretainement Sistem):3        |V|
+-Castlevania (Nes)
+-Jackie Chan Action Kung Fu (Nes)
+-Contra (Nes)
+
+
+
+NDS(Nintendo Ds):1                |V|
+-Kirby Mouse Atack (Nintendo Ds)    
+
+
+
+
+Android:9                |V|
+-Modern Combat 4 (Android)
+-Kill The Plumber(Android)
+-Fearless Fantasy(Android)
+-Epoch (Anroid)
+-Evoland (Android)
+-Chaos Rings 3 (Android)
+-Dead Effect(Android)
+-Adventures of Tintin(Android)
+-Atack The Light(Android)
+
+
+
+
+
+
+PSP(PlayStation Portable):26              Correção: 29
+-Mega Man X (Psp) 
 -Mimana iyar Chronicle (Psp)
 -Disgaea 2 Dark Hero Days (Psp)
--Power Stone (Dreamcast)
--Power Stone 2 (Dreamcast)    
+-Prinny I Can Really Be The Hero? (Psp)  
 -Metal Slug Double XX (Psp)
--Prinny I Can Really Be The Hero? (Psp)
 -Prinny 2 Dawn Operation Panties Dood! (Psp)
 -Dragon Ball Z Tenkachi Tag Team (Psp)
--Dragon Ball Z Budokai Tenkachi 3 (Playstation 2)
--Z.H.P Unlosing Ranger Vs Darkdeath Evilman (Psp)
--Rival Schools United by Fate (Playstation 1)
 -God Of War Ghost Of Sparta (Psp)
 -God Of War Chain Of Olympus (Psp)
--Klonoa Door To Panthomile (Playstation 1)
+-Z.H.P Unlosing Ranger Vs Darkdeath Evilman (Psp)      
 -Who's That Flying?! (Psp)
 -Silent Hill Shattered Memories (Psp)
 -Kingdom Hearts Birth By Sleep(Ventus) (Psp)
 -Crash Bandicoot 3 Warped (Psp)
 -The 3rd Birthday Parasite Eve (Psp)
 -Mega Man Powered Up (Psp)
--Mega Man 8 (Playstation 1)
--Chocobo Racing (Playstation 1)
 -Black Rock Shooter The Game (Psp)
 -Resistance Retribution (Psp)
 -ModNation Racers (Psp)
--Bakugan Defenders Of The Core(Psp)
+-Bakugan Defenders Of The Core(Psp)           
 -Medievil Ressurection (Psp)
 -Ratchet & Clank Size Matters (Psp)
 -Half Minute Hero (Psp)
--The Legend Of Zelda Ocarina Of Time (Nintendo 64)
--The Legend Of Zelda Majora´s Mask (Nintendo 64)
--The Legend Of Zelda A Link To The Past (Super Nintendo)
--Jackie Chan Action Kung Fu (Nes)
--Contra (Nes)
--Saint Seiya The Sanctuary Saga (Playstation 2)
--Saint Seiya Hades (Playstation 2)
--Marvel Vs Capcom Clash Of Super Heroes (Playstation 1)
--Crash Mind Over Mutant (Playstation 2)
--Rocket Knight Adventures (Genesis)
--Modern Combat 4 (Android)
--Kirby Mouse Atack (Nintendo Ds)      
--Knights Of The Round (Super Nintendo)  
--Super Puzzle Fighter Turbo (Cps2)
 -Corpse Party (PSP)
 -Corpse Party Book Of Shadows (PSP) 
 -Nayuta No Kiseki(PSP)
--Summon Night Swordcraft Story(Gba)
--Resident Evil 3(Ps1)
--Kill The Plumber(Android)
--Fearless Fantasy(Android)
--The legend of Zelda The Minish Cap(Gba)
--Dead Effect(Android)
--Resident Evil 3(Ps1)                                                                          
--Resident Evil 2(Leon)(Ps1)
--Resident Evil 2(Claire)(Ps1)
--Resident Evil 1(Jill)(Ps1)
--The legend of Zelda Four Swords (GBA)
--Epoch (Anroid)
--Evoland (Android)
--Chaos Rings 3 (Android)
--Resident Evil Suvirvor(Ps1)
--Adventures of Tintin(Android)
+-Metal Gear Solid Peace Walker(PSP)
 -Cave Story(PSP)
+-Dragon Ball Z Shin Budokai(Psp)
+
+
+
+PS1(Plastation):22             |V|
+-Mega Man X3 (Playstation 1)
+-Mega Man X6 (Playstation 1)  
+-Alundra (Playstation 1) 
+-Mega Man Legends (Playstation 1) 
+-Megaman X4 (Playstation 1)                  
+-Mega Man X5 (Playstation 1) 
+-Castlevania Syphony Of The Night (Playstation 1) 
+-Mega Man Legends (Playstation 1)       
+-Final Fantasy 7 (Playstation 1)
+-Rival Schools United by Fate (Playstation 1)
+-Klonoa Door To Panthomile (Playstation 1)
+-Mega Man X8 (Playstation 1)
+-Chocobo Racing (Playstation 1)
+-Marvel Vs Capcom Clash Of Super Heroes (Playstation 1)
+-Resident Evil 3(Playstation 1)                                                            
+-Resident Evil 2(Leon)(Playstation 1)
+-Resident Evil 2(Claire)Playstation 1)
+-Resident Evil 1(Jill)(Playstation 1)          
 -Galerians(Ps1)
 -Metal Gear Solid(Ps1)
--Resident Evil 4(Pc)
--Metal Gear Solid Peace Walker(PSP)
+-Resident Evil Suvirvor(Ps1)
 -Parasite Eve(Ps1)
--Bioshock(Pc)
--Azure Striker Gunvolt(Pc)
--Resident Evil 5(Pc)
--Shovel Knight Specter Of Torment(Pc)
--Atack The Light(Android)
--Deadpool(Pc)
--Bioshock 2(Pc)
--Transformers Devastation(Pc)
--TMNT Mutants In Manhattan(Pc)
--Shadow Of Mordor(Pc)
--Injustice(Pc)
--Sonic Mania(Pc)
+
+
+
+Sega Genesis(Mega Drive):8                |V|
+-Sonic & Knucles (Genesis)
+-Sonic The Hedgehog 2 (Genesis)
+-Rocket Knight Adventures (Genesis)
 -Sonic 3 & Knucles(Genesis)
 -Sonic The Hedgehog(Genesis)
+-Dinamyte Headdy(Sega Genesis)
+-Alien Storm(Sega Genesis)
+-Dr.Robotnik Mean Bean Machine(Sega Genesis)
+
+
+
+Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):6        Correção:9
+-Blazing Star (Neo Geo)
+-The King Of Fighters 98 (Neo Geo)
+-Mega Man The Power Fighters (Cps2)
+-Battle Circuit (Cps2)
+-Alien Vs Predator (Cps2)
+-Prinny I Can Really Be The Hero? (Psp)                     
+-The Simpsons Game (MAME)
+-Super Puzzle Fighter Turbo (Cps2)
+-Segasonic The Hedgehog(Arcade)
+
+
+PS2(Playstation 2):5            Correção:9
+-Mega Man X7 (Playstation 2)  
+-Mega Man X8 (Playstation 2) 
+-Mega Man X8 (Playstation 2)
+-God Of War (Playstation 2)
+-God Of War 2 (Playstation 2)
+-Dragon Ball Z Budokai Tenkachi 3 (Playstation 2)
+-Saint Seiya The Sanctuary Saga (Playstation 2)
+-Saint Seiya Hades (Playstation 2)
+-Crash Mind Over Mutant (Playstation 2)
+
+
+PC(Computador):72                     Correção75
+-Megaman X4 (Pc)                   
+-Mega Man X5 (Pc)   
+-Mega Man X8 (PC)
+-Mega Man X (Psp)
+-Lego Star Wars 2(Pc)
+-Lego Star Wars The Complete Saga(Pc)             
 -Sonic Lost World(Pc)
 -Sonic Adventure 2(Pc)
--Batman Arkham Asylum(Pc)
--Portal(Pc)
+-Batman Arkham Asylum(Pc)           
+-Porta l(Pc)
 -Portal 2(Pc)
 -Sonic Generations(Pc)
 -Binary Domain(Pc)
 -Resident Evil Revelations(Pc)
 -Mighty N9(Pc)
--One Piece Ulimited World Red(Pc)
+-One Piece Ulimited World Red(Pc)                
 -One Piece Burning Blood(Pc)
 -Sonic Cd(Pc)
--Dark Souls Prepare To Die Edition(Pc)
+-Dark Souls Prepare To Die Edition(Pc)               
 -Dark Souls 2(Pc)
--God Of War 3(Ps3)
--Dragon Ball Z Shin Budokai(Psp)
--Star Fox 2(Snes)
--Spec Ops The Line(Pc)
--Mad Father(Pc)
--Misao(Pc)
--Lb(Pc)
--Segasonic The Hedgehog(Arcade)
--Super Smash Bros Melee(Gamecube)
--Sonic Forces(Pc)
--Super Mario 3D Land(3DS)
+-Deadpool(Pc)
+-Bioshock 2(Pc)
+-Transformers Devastation(Pc)
+-TMNT Mutants In Manhattan(Pc)
+-Shadow Of Mordor(Pc)
+-Injustice(Pc)                           
+-Sonic Mania(Pc)
+-Bioshock(Pc)
+-Azure Striker Gunvolt(Pc)                   
+-Resident Evil 5(Pc)
+-Shovel Knight Specter Of Torment(Pc)
+-Resident Evil 4(Pc)
+-Sonic Forces(Pc)                 
 -The King Of Fighters XIV(Pc)
 -Resident Evil 7(Pc)
--Unleashed Project(Mod Sonic Generations)(Pc)
+-Unleashed Project(Mod Sonic Generations)(Pc)           
 -Metal Gear Rising Revengeance(Raiden)(Pc)
 -Metal Gear Rising Revengeance(Jetstream Sam)(Pc)
--Metal Gear Rising Revengeance(Blade Wolf)(Pc)
--Bloodstained Curse Of The Moon(Pc)
--Super Mario Galaxy(Wii)
+-Metal Gear Rising Revengeance(Blade Wolf)(Pc)           
+-Bloodstained Curse Of The Moon(Pc)         
 -Mafia 2(Pc)
 -Final Fantasy XIII(Pc)
--Donut County(Pc)
--Super Mario 3D World(WIIU)
--Super Mario Galaxy 2(Wii)
--Star Fox Assault(Gamecube)
+-Donut County(Pc)          
 -Sleeping Dogs(Pc)
 -Iconoclasts(Pc)
--Twinkle Star Sprites(Pc)
+-Twinkle Star Sprites(Pc)                  
+-Spec Ops The Line(Pc)
+-Mad Father(Pc)
+-Misao(Pc)              
+-Lb(Pc)
+-Enter The Gungeon(Pc)
+-The Uncertain:Last Quiet Day(Pc)
+-Phantom Breaker Battlegrounds(PC)
+-Binding of Isaac Afterbirth(PC)
+-New Super Lucky's Tale(PC)
+-Ryse Son of Rome(PC)                    
+-Battle Axe(PC)
+-Aster(PC)
+-Bloodstained Curse of The Moon 2(PC)               
+-Itta(PC)
+-Little Nightmares(PC)
+-Trover Saves The Universe(PC)
+-Juicy Realm(PC)
+-Granblue Fantasy Versus(Arcade Mode) (PC)
+-Monkey King:Hero Is Back(PC)
+-Virtua Cop(Pc)                  
+-Virtua Cop 2(Pc)
+-Dark Souls 3(Pc)
+-Sinistar Lite(Pc)                        
+-Mighty Goose(Pc) 
+-Unsighted(Pc)
+-Blazing Chrome(Pc)
+-Panzer Paladin(Pc)
+-Doom(2016) (Pc)
+-Super Glitter Rush(Pc)            
+
+
+
+
+Sega Dreamcast:3                         |X|
+
+
+
+
+
+PS3(Playstation 3):70                  Correção: 71
 -Demon's Souls(Ps3)
 -Dragon Ball Xenoverse(Ps3)
 -Infamous(Ps3)
@@ -197,7 +284,7 @@ Jogos
 -Resident Evil Revelations 2(Ps3)
 -Sonic and All-Stars Racing(Ps3)
 -Uncharted Drake's Fortune(Ps3)
--Dragon Ball Z Burst Limit(Ps3)
+-Dragon Ball Z Burst Limit(Ps3)           
 -Bayonetta(Ps3)
 -Sonic Unleashed(Ps3)
 -Bioshock Ifinite(Ps3)
@@ -207,7 +294,7 @@ Jogos
 -Jojo's Bizarre Adventure All-Star Battle(Ps3)
 -Catherine(Ps3)
 -Enslaved Journey to The West(Ps3)
--Resident Evil Code Veronica X(Ps3)
+-Resident Evil Code Veronica X(Ps3)          
 -Street Fighter 3rd Strike Online(Ps3)
 -Battlefield Hardline(Ps3)
 -James Bond 007 Bloodstone(Ps3)
@@ -217,19 +304,17 @@ Jogos
 -Max Payne 3(Ps3)
 -Dragon Ball Budokai 3(Ps3)
 -Dragon Ball Budokai(Ps3)
--Guitar Hero III Legends of Rock(Ps3)
+-Guitar Hero III Legends of Rock(Ps3)          
 -Blade Kitten(Ps3)
 -Tales Of Xillia(Ps3)
 -Ninja Gaiden Sigma 2(Ps3)
 -Majin and the Forsaken Kingdom(Ps3)
 -Killer Is Dead(Ps3)
--Dinamyte Headdy(Sega Genesis)
--Alien Storm(Sega Genesis)
--Dr.Robotnik Mean Bean Machine(Sega Genesis)
+ -God Of War 3(Ps3)
 -Crysis(Ps3)
 -Dark Souls 2 Scholar of the First Sin(Ps3)
 -Kingdom Hearts Final Mix(Ps3)
--Kingdom Hearts Re:Chain of Memories(Sora's Story) (Ps3)
+-Kingdom Hearts Re:Chain of Memories(Sora's Story) (Ps3)     
 -Kingdom Hearts Re:Chain of Memories(Riku's Story) (Ps3)
 -Kingdom Hearts 358/2 Days(Ps3)
 -Tales of Berseria(Ps3)
@@ -239,7 +324,7 @@ Jogos
 -Lollipop Chainsaw(Ps3)
 -Far Cry 4(Ps3)
 -JoJo's Bizarre Adventure: Eyes of Heaven(Ps3)
--El Shaddai ASCENSION OF THE METATRON(Ps3)
+-El Shaddai ASCENSION OF THE METATRON(Ps3)       
 -Metal Gear Solid 3 Snake Eater HD(Ps3)
 -Driver San Francisco(Ps3)
 -The Evil Within(Ps3)
@@ -249,8 +334,7 @@ Jogos
 -Ratchet & Clank HD(Ps3)
 -Valkyria Chronicles(Ps3)
 -Uncharted 3:Drake´s Deception(Ps3)
--Enter The Gungeon(Pc)
--Resident Evil Operation Racoon City(Ps3)
+-Resident Evil Operation Racoon City(Ps3)        
 -The Adventures of Tintin(Ps3)
 -Metal Gear Solid 2 Sons of Liberty HD(Ps3)
 -Tom Clancy's Ghost Recon Future Solider(Ps3)
@@ -259,11 +343,14 @@ Jogos
 -Crysis 2(Ps3)
 -One Piece Pirate Warriors 2(Ps3)
 -Ratchet & Clank 2:Going Commando(Ps3)
--The Uncertain:Last Quiet Day(Pc)
 -Tales of Xillia 2(Ps3)
--Spider Man Edge of Time(Ps3)
--Malicious(Ps3)
--Links's Crossbow Training(Wii)
+-Spider Man Edge of Time(Ps3)                
+-Malicious(Ps3)        
+
+
+
+
+Nintendo Gamecube:9                      |V|
 -Paper Mario The Thousand Year Door(Gamecube)
 -Capcom Vs Snk 2 EO(Gamecube)
 -Metal Gear Solid The Twin Snakes(Gamecube)
@@ -271,42 +358,42 @@ Jogos
 -Wario World(Gamecube)
 -Soul Calibur 2(Arcade Mode) (Gamecube)
 -Sonic Heroes(Gamecube)
+-Star Fox Assault(Gamecube)
+-Super Smash Bros Melee(Gamecube)
+
+
+
+
+
+3DS(Nintendo 3DS):2                           |V|
+-Super Mario 3D Land(3DS)
+-Star Fox 3D(3DS)
+
+
+
+Nintendo Wii:9                                 |V|
+-Super Mario Galaxy(Wii)
+-Super Mario Galaxy 2(Wii)
+-Links's Crossbow Training(Wii)
 -Ghost Squad(Wii)
 -The Legend Of Zelda Twilight Princess(Wii)
 -Wii Play(Wii)
 -Arc Rise Fantasia(Wii)
 -The Legend of Zelda Skyward Sword(Wii)
 -Kirby Return to Dreamland(Wii)
--Star Fox 3D(3DS)
--Phantom Breaker Battlegrounds(PC)
--Binding of Isaac Afterbirth(PC)
--New Super Lucky's Tale(PC)
--Ryse Son of Rome(PC)
--Battle Axe(PC)
--Aster(PC)
--Bloodstained Curse of The Moon 2(PC)
--Itta(PC)
--Little Nightmares(PC)
--Trover Saves The Universe(PC)
--Juicy Realm(PC)
--Granblue Fantasy Versus(Arcade Mode) (PC)
--Monkey King:Hero Is Back(PC)
--Virtua Cop(Pc)
--Virtua Cop 2(Pc)
--Dark Souls 3(Pc)
--Sinistar Lite(Pc)
--Mighty Goose(Pc)
--Unsighted(Pc)
--Blazing Chrome(Pc)
--Panzer Paladin(Pc)
--Doom(2016) (Pc)
--Super Glitter Rush(Pc)
+
+
+
+Nintendo WiiU:1                                |V|
+-Super Mario 3D World(WIIU)
+
+
+
+Nintendo Switch:11                      |V|
 -ARMS(Switch)
 -Super Mario Odyssey(Switch)
 -Hyrule Warriors Definitive Edition(Switch)
 -Ninja Gaiden Sigma(Switch)
--Star Wars Jedi Fallen Order(Xcloud)
--Killer Instinct(Arcade Mode) (Xcloud)
 -Call of Juarez Gunslinger(Switch)
 -Final Vendetta(Switch)
 -Steel Assault(Switch)
@@ -314,3 +401,21 @@ Jogos
 -Clockwork Aquario(Switch)
 -The Ninja Warriors Once Again(Switch)
 -Bayonetta 2(Switch)
+
+
+Xcloud:2                        |V|
+-Star Wars Jedi Fallen Order(Xcloud)
+-Killer Instinct(Arcade Mode) (Xcloud)               
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
