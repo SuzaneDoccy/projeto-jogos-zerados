@@ -68,6 +68,7 @@ main{
     border-bottom-right-radius: 10px;
 }
 main > h1{
+    text-align: center;
     font-family: var(--font-padrao);
     font-size: 2em;
     margin: 20px;
@@ -75,6 +76,7 @@ main > h1{
     border-style: groove;
  }
 main > h2{
+    text-align: center;
     font-family: var(--font-padrao);
     font-size: 2em;
     margin: 20px;

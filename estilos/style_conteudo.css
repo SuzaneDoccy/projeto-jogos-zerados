@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
 
 *{
-    margin: -1%;
+    margin: 0%;
     padding: 0%;
     user-select: text;
 }
@@ -44,15 +44,17 @@ header > p{
     color: white;
     max-width: 600px;
     margin: auto;
-    padding-bottom: 30px;
-    padding-left: 10px;
-    padding-right: 10px;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.479);
 }
 nav{
     text-align: left;
-    margin-left: 60px;
-    padding-top: 10px;
+    margin-left: 10%;
+    padding: 10px 0px;
+}
+img{
+    max-width: 300px;
+    margin: auto;
+    padding-bottom: 10px;
 }
 
 /* Configurações dos botões */
@@ -97,6 +99,7 @@ main{
     border-bottom-right-radius: 10px;
 }
 main > h1{
+    text-align: center;
     font-family: var(--font-padrao);
     font-size: 2em;
     margin: 20px;
@@ -108,11 +111,6 @@ p{
     margin-bottom: 10px;
     text-indent: 20px;
     line-height: 2em;
-}
-img{
-    display: block;
-    margin: auto;
-    padding-bottom: 10px;
 }
 
 /* Configurações do Iframe*/
@@ -134,8 +132,6 @@ iframe{
 /* Configurações da lista */
 
 ul{
-    background-color: #f3783f;
-    margin-top: -50px;
     display: inline-block;
     padding-bottom: 20px;
     padding-right: 100px;

@@ -2,30 +2,30 @@
 
 N64(Nintendo 64):8
 SNES(Super Nintendo):13
-GBA(Gameboy Advance):4
+GBA(Gameboy Advance):5
 NES(Nintendo Entretainement Sistem):3
 NDS(Nintendo Ds):1
 Android:9
-PSP(PlayStation Portable):26
+PSP(PlayStation Portable):28
 PS1(Plastation):22
 Sega Genesis(Mega Drive):8
-Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):6
-PS2(Playstation 2):5
-PC(Computador):72
-Sega Dreamcast:3
-PS3(Playstation 3):70
+Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):9
+PS2(Playstation 2):9
+PC(Computador):74
+Sega Dreamcast:2
+PS3(Playstation 3):71
 Nintendo Gamecube:9
 3DS(Nintendo 3DS):2
 Nintendo Wii:9
 Nintendo WiiU:1
 Nintendo Switch:11
 Xcloud:2
-Total:283
+Total:277
 
 
 Jogos
 
-N64(Nintendo 64):8                  |V|
+N64(Nintendo 64):8                 
 -Star Fox 64 (Nintendo 64)
 -Super Mario 64 (Nintendo 64)           
 -Kirby The Cristal Shards (Nintendo 64)           
@@ -37,7 +37,7 @@ N64(Nintendo 64):8                  |V|
 
 
 
-SNES(Super Nintendo):13      |V|
+SNES(Super Nintendo):13      
 -Mega Man X (Super Nintendo)   
 -Mega Man X2 (Super Nintendo)               
 -Mega Man X3 (Super Nintendo) 
@@ -54,30 +54,28 @@ SNES(Super Nintendo):13      |V|
 
 
 
-
-GBA(Gameboy Advance):4        |V|
+GBA(Gameboy Advance):5        
 -Megaman & Bass (Gameboy Advance)
 -Summon Night Swordcraft Story(Gba)
 -The legend of Zelda The Minish Cap(Gba)
 -The legend of Zelda Four Swords (GBA)
+Metroid Zeero Mission(GBA)
 
 
 
-
-NES(Nintendo Entretainement Sistem):3        |V|
+NES(Nintendo Entretainement Sistem):3        
 -Castlevania (Nes)
 -Jackie Chan Action Kung Fu (Nes)
 -Contra (Nes)
 
 
 
-NDS(Nintendo Ds):1                |V|
+NDS(Nintendo Ds):1                
 -Kirby Mouse Atack (Nintendo Ds)    
 
 
 
-
-Android:9                |V|
+Android:9                
 -Modern Combat 4 (Android)
 -Kill The Plumber(Android)
 -Fearless Fantasy(Android)
@@ -90,11 +88,8 @@ Android:9                |V|
 
 
 
-
-
-
-PSP(PlayStation Portable):26              Correção: 29
--Mega Man X (Psp) 
+PSP(PlayStation Portable):28
+-Mega Man Maverick Hunter X (Psp) 
 -Mimana iyar Chronicle (Psp)
 -Disgaea 2 Dark Hero Days (Psp)
 -Prinny I Can Really Be The Hero? (Psp)  
@@ -107,7 +102,6 @@ PSP(PlayStation Portable):26              Correção: 29
 -Who's That Flying?! (Psp)
 -Silent Hill Shattered Memories (Psp)
 -Kingdom Hearts Birth By Sleep(Ventus) (Psp)
--Crash Bandicoot 3 Warped (Psp)
 -The 3rd Birthday Parasite Eve (Psp)
 -Mega Man Powered Up (Psp)
 -Black Rock Shooter The Game (Psp)
@@ -126,7 +120,7 @@ PSP(PlayStation Portable):26              Correção: 29
 
 
 
-PS1(Plastation):22             |V|
+PS1(Playstation):22            
 -Mega Man X3 (Playstation 1)
 -Mega Man X6 (Playstation 1)  
 -Alundra (Playstation 1) 
@@ -149,10 +143,11 @@ PS1(Plastation):22             |V|
 -Metal Gear Solid(Ps1)
 -Resident Evil Suvirvor(Ps1)
 -Parasite Eve(Ps1)
+-Crash Bandicoot 3 Warped (Ps1)               
 
 
 
-Sega Genesis(Mega Drive):8                |V|
+Sega Genesis(Mega Drive):8               
 -Sonic & Knucles (Genesis)
 -Sonic The Hedgehog 2 (Genesis)
 -Rocket Knight Adventures (Genesis)
@@ -164,19 +159,19 @@ Sega Genesis(Mega Drive):8                |V|
 
 
 
-Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):6        Correção:9
+Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):9
 -Blazing Star (Neo Geo)
 -The King Of Fighters 98 (Neo Geo)
 -Mega Man The Power Fighters (Cps2)
 -Battle Circuit (Cps2)
--Alien Vs Predator (Cps2)
--Prinny I Can Really Be The Hero? (Psp)                     
+-Alien Vs Predator (Cps2)                    
 -The Simpsons Game (MAME)
 -Super Puzzle Fighter Turbo (Cps2)
--Segasonic The Hedgehog(Arcade)
+-Segasonic The Hedgehog(Arcade)                
 
 
-PS2(Playstation 2):5            Correção:9
+
+PS2(Playstation 2):9
 -Mega Man X7 (Playstation 2)  
 -Mega Man X8 (Playstation 2) 
 -Mega Man X8 (Playstation 2)
@@ -185,10 +180,10 @@ PS2(Playstation 2):5            Correção:9
 -Dragon Ball Z Budokai Tenkachi 3 (Playstation 2)
 -Saint Seiya The Sanctuary Saga (Playstation 2)
 -Saint Seiya Hades (Playstation 2)
--Crash Mind Over Mutant (Playstation 2)
+-Crash Mind Over Mutant (Playstation 2)                        
 
 
-PC(Computador):72                     Correção75
+PC(Computador):75
 -Megaman X4 (Pc)                   
 -Mega Man X5 (Pc)   
 -Mega Man X8 (PC)
@@ -246,7 +241,6 @@ PC(Computador):72                     Correção75
 -New Super Lucky's Tale(PC)
 -Ryse Son of Rome(PC)                    
 -Battle Axe(PC)
--Aster(PC)
 -Bloodstained Curse of The Moon 2(PC)               
 -Itta(PC)
 -Little Nightmares(PC)
@@ -266,15 +260,13 @@ PC(Computador):72                     Correção75
 -Super Glitter Rush(Pc)            
 
 
-
-
-Sega Dreamcast:3                         |X|
-
-
+Sega Dreamcast:2                         
+Power Stone 1
+Power Stone 2
 
 
 
-PS3(Playstation 3):70                  Correção: 71
+PS3(Playstation 3):71
 -Demon's Souls(Ps3)
 -Dragon Ball Xenoverse(Ps3)
 -Infamous(Ps3)
@@ -350,7 +342,7 @@ PS3(Playstation 3):70                  Correção: 71
 
 
 
-Nintendo Gamecube:9                      |V|
+Nintendo Gamecube:9                     
 -Paper Mario The Thousand Year Door(Gamecube)
 -Capcom Vs Snk 2 EO(Gamecube)
 -Metal Gear Solid The Twin Snakes(Gamecube)
@@ -365,13 +357,13 @@ Nintendo Gamecube:9                      |V|
 
 
 
-3DS(Nintendo 3DS):2                           |V|
+3DS(Nintendo 3DS):2                           
 -Super Mario 3D Land(3DS)
 -Star Fox 3D(3DS)
 
 
 
-Nintendo Wii:9                                 |V|
+Nintendo Wii:9                                 
 -Super Mario Galaxy(Wii)
 -Super Mario Galaxy 2(Wii)
 -Links's Crossbow Training(Wii)
@@ -384,12 +376,12 @@ Nintendo Wii:9                                 |V|
 
 
 
-Nintendo WiiU:1                                |V|
+Nintendo WiiU:1                               
 -Super Mario 3D World(WIIU)
 
 
 
-Nintendo Switch:11                      |V|
+Nintendo Switch:11                     
 -ARMS(Switch)
 -Super Mario Odyssey(Switch)
 -Hyrule Warriors Definitive Edition(Switch)
@@ -403,19 +395,6 @@ Nintendo Switch:11                      |V|
 -Bayonetta 2(Switch)
 
 
-Xcloud:2                        |V|
+Xcloud:2                        
 -Star Wars Jedi Fallen Order(Xcloud)
 -Killer Instinct(Arcade Mode) (Xcloud)               
-                                    
-
-
-
-
-
-
-
-
-
-
-
-
