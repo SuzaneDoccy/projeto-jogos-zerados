@@ -160,12 +160,12 @@ div{
     border: #ffd079;
     border-style: dashed;
 }
-a#ancora{
+a.ancora{
     color: black;
     font-family: var(--font-padrao);
     text-decoration: none;
 }
-a#ancora:hover{
+a.ancora:hover{
     color:var(--cor5);
     transition-duration: 5s;
     text-decoration: line-through;

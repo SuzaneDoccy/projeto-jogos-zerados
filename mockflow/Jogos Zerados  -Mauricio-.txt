@@ -6,8 +6,8 @@ GBA(Gameboy Advance):5
 NES(Nintendo Entretainement Sistem):3
 NDS(Nintendo Ds):1
 Android:9
-PSP(PlayStation Portable):28
-PS1(Plastation):22
+PSP(PlayStation Portable):29
+PS1(Plastation):23
 Sega Genesis(Mega Drive):8
 Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):9
 PS2(Playstation 2):9
@@ -20,7 +20,7 @@ Nintendo Wii:9
 Nintendo WiiU:1
 Nintendo Switch:11
 Xcloud:2
-Total:277
+Total:278
 
 
 Jogos
@@ -59,7 +59,7 @@ GBA(Gameboy Advance):5
 -Summon Night Swordcraft Story(Gba)
 -The legend of Zelda The Minish Cap(Gba)
 -The legend of Zelda Four Swords (GBA)
-Metroid Zeero Mission(GBA)
+-Metroid Zeero Mission(GBA)
 
 
 
@@ -88,7 +88,7 @@ Android:9
 
 
 
-PSP(PlayStation Portable):28
+PSP(PlayStation Portable):29
 -Mega Man Maverick Hunter X (Psp) 
 -Mimana iyar Chronicle (Psp)
 -Disgaea 2 Dark Hero Days (Psp)
@@ -117,10 +117,11 @@ PSP(PlayStation Portable):28
 -Metal Gear Solid Peace Walker(PSP)
 -Cave Story(PSP)
 -Dragon Ball Z Shin Budokai(Psp)
+-Mega Man X (Psp)
 
 
 
-PS1(Playstation):22            
+PS1(Playstation):23            
 -Mega Man X3 (Playstation 1)
 -Mega Man X6 (Playstation 1)  
 -Alundra (Playstation 1) 
@@ -135,7 +136,7 @@ PS1(Playstation):22
 -Mega Man X8 (Playstation 1)
 -Chocobo Racing (Playstation 1)
 -Marvel Vs Capcom Clash Of Super Heroes (Playstation 1)
--Resident Evil 3(Playstation 1)                                                            
+-Resident Evil 3(Playstation1)                                
 -Resident Evil 2(Leon)(Playstation 1)
 -Resident Evil 2(Claire)Playstation 1)
 -Resident Evil 1(Jill)(Playstation 1)          
@@ -183,11 +184,10 @@ PS2(Playstation 2):9
 -Crash Mind Over Mutant (Playstation 2)                        
 
 
-PC(Computador):75
+PC(Computador):74
 -Megaman X4 (Pc)                   
 -Mega Man X5 (Pc)   
 -Mega Man X8 (PC)
--Mega Man X (Psp)
 -Lego Star Wars 2(Pc)
 -Lego Star Wars The Complete Saga(Pc)             
 -Sonic Lost World(Pc)
@@ -261,8 +261,8 @@ PC(Computador):75
 
 
 Sega Dreamcast:2                         
-Power Stone 1
-Power Stone 2
+Power Stone 1(Sega Dreamcast)
+Power Stone 2(Sega Dreamcast)
 
 
 
@@ -302,7 +302,7 @@ PS3(Playstation 3):71
 -Ninja Gaiden Sigma 2(Ps3)
 -Majin and the Forsaken Kingdom(Ps3)
 -Killer Is Dead(Ps3)
- -God Of War 3(Ps3)
+-God Of War 3(Ps3)
 -Crysis(Ps3)
 -Dark Souls 2 Scholar of the First Sin(Ps3)
 -Kingdom Hearts Final Mix(Ps3)
