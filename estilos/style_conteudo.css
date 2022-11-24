@@ -119,10 +119,10 @@ iframe#tela{
     box-shadow: 2px 5px 7px 4px rgba(0, 0, 0, 0.438);
     width: 360px;
     height: 500px;
-    margin-left: -10px;
+    margin-left: -25px;
     border-radius: 5%;
     font-size: 1em;
-    background-image: linear-gradient(to bottom, var(--cor0), var(--cor3));
+    background-color: transparent;
 }
 iframe.margin{
     margin-bottom: 450px;
