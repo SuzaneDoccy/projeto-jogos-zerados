@@ -55,6 +55,7 @@ header > p{
 body{
     background-color: var(--cor0);
     font-family: var(--font-normal);
+    overflow-x: hidden;
 }
 main{
     background-color: white;

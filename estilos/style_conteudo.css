@@ -86,6 +86,7 @@ button{
 body{
     background-color: var(--cor0);
     font-family: var(--font-normal);
+    overflow-x: hidden;
 }
 main{
     background-color: white;
@@ -116,12 +117,12 @@ p{
 /* Configurações do Iframe*/
 
 iframe{
-    min-width: 260px;
     max-width: 500px;
+    
 }
 iframe#tela{
     box-shadow: 2px 5px 7px 4px rgba(0, 0, 0, 0.438);
-    width: 325px;
+    width: 380px;
     height: 500px;
     border-radius: 5%;
     font-size: 1em;
