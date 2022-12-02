@@ -8,10 +8,10 @@ NDS(Nintendo Ds):1
 Android:9
 PSP(PlayStation Portable):29
 PS1(Plastation):23
-Sega Genesis(Mega Drive):8
+Sega Genesis(Mega Drive):9
 Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):9
-PS2(Playstation 2):9
-PC(Computador):74
+PS2(Playstation 2):8
+PC(Computador):73
 Sega Dreamcast:2
 PS3(Playstation 3):71
 Nintendo Gamecube:9
@@ -20,7 +20,7 @@ Nintendo Wii:9
 Nintendo WiiU:1
 Nintendo Switch:12
 Xcloud:2
-Total:279
+Total:278
 
 
 Jogos
@@ -148,11 +148,12 @@ PS1(Playstation):23
 
 
 
-Sega Genesis(Mega Drive):8               
+Sega Genesis(Mega Drive):9               
 -Sonic & Knucles (Genesis)
 -Sonic The Hedgehog 2 (Genesis)
 -Rocket Knight Adventures (Genesis)
 -Sonic 3 & Knucles(Genesis)
+-Sonic & Knuckles(Genesis)
 -Sonic The Hedgehog(Genesis)
 -Dinamyte Headdy(Sega Genesis)
 -Alien Storm(Sega Genesis)
@@ -172,10 +173,9 @@ Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):9
 
 
 
-PS2(Playstation 2):9
+PS2(Playstation 2):8
 -Mega Man X7 (Playstation 2)  
 -Mega Man X8 (Playstation 2) 
--Mega Man X8 (Playstation 2)
 -God Of War (Playstation 2)
 -God Of War 2 (Playstation 2)
 -Dragon Ball Z Budokai Tenkachi 3 (Playstation 2)
