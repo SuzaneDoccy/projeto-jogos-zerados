@@ -18,9 +18,9 @@ Nintendo Gamecube:9
 3DS(Nintendo 3DS):2
 Nintendo Wii:9
 Nintendo WiiU:1
-Nintendo Switch:19
+Nintendo Switch:21
 Xcloud:2
-Total:285
+Total:287
 
 
 Jogos
@@ -381,7 +381,7 @@ Nintendo WiiU:1
 
 
 
-Nintendo Switch:19                    
+Nintendo Switch:21                    
 -ARMS(Switch)
 -Super Mario Odyssey(Switch)
 -Hyrule Warriors Definitive Edition(Switch)
@@ -393,13 +393,14 @@ Nintendo Switch:19
 -Clockwork Aquario(Switch)
 -The Ninja Warriors Once Again(Switch)
 -Bayonetta 2(Switch)
-- Mario Kart 8 Deluxe(Switch)
+-Mario Kart 8 Deluxe(Switch)
 -Super Mario 3d World Bowsers's Fury(Switch)
 -Crisis Core Final Fantasy 7 Reunion(Switch)
 -Kirby Star Allies(Switch)
 -Infernax(Switch)
 -Record of Lodoss War:Deedlith in Wonder Labyrinth(Switch)
-
+-Hazelnut Hex(Switch)
+-The Legend of Zelda: Link's Awakening(Switch)
 
 Xcloud:2                        
 -Star Wars Jedi Fallen Order(Xcloud)
