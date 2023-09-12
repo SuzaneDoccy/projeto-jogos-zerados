@@ -50,10 +50,17 @@ header > p{
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.479);
 }
 
+/* Configuração de fundo */
+
+body{
+    background-image: url("imagens/paisagem_gamer.jpg");
+    background-repeat: no-repeat;
+    background-position: fixed;
+}
+
 /* Configurações do Corpo */
 
 body{
-    background-color: var(--cor0);
     font-family: var(--font-normal);
 }
 main{

@@ -81,6 +81,14 @@ button{
     transition-duration: 2s;
 }
 
+/* Configuração de fundo */
+
+body{
+    background-image: url("imagens/Fundo_xbox.png");
+    background-repeat: no-repeat;
+    background-position: fixed;
+}
+
 /* Confiurações do corpo*/
 
 body{
@@ -200,10 +208,17 @@ footer{
     font-size: 0.8em;
     padding:5px;
 }
+footer > p > a{
+    text-decoration: none;
+    color: var(--cor0);
+}
 footer a:hover{
     text-decoration: underline;
-    color: var(--cor0);
+    font-size: 1.0em;
+    transition: 2s;
+    color: aqua;
 } 
 footer a:visited{
+    transition: 2s;
     color: aquamarine;
 }
