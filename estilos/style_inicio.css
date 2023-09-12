@@ -55,7 +55,8 @@ header > p{
 body{
     background-image: url("imagens/paisagem_gamer.jpg");
     background-repeat: no-repeat;
-    background-position: fixed;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 /* Configurações do Corpo */
