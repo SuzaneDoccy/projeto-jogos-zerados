@@ -119,6 +119,7 @@ p{
     margin-bottom: 10px;
     text-indent: 20px;
     line-height: 2em;
+    text-align: justify;
 }
 
 /* Configurações do Iframe*/
@@ -202,7 +203,7 @@ a.ancora:hover{
 /* Configurações do Rodapé*/
 
 footer{
-    background-color: var(--cor5);
+    background-color: rgba(80, 33, 7, 0.459);
     color: white;
     text-align: center;
     font-size: 0.8em;
