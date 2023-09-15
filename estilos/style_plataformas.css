@@ -79,7 +79,7 @@ main > h1{
     font-family: var(--font-padrao);
     font-size: 2em;
     margin: 20px;
-    border: 8px solid var(--cor2);
+    border: 8px solid #f8bb2d93;
     border-style: groove;
  }
  main > h2{
@@ -87,7 +87,7 @@ main > h1{
     font-family: var(--font-padrao);
     font-size: 2em;
     margin: 20px;
-    border: 8px solid var(--cor2);
+    border: 8px solid #f8bb2d93;
     border-style: groove;
 }
 p{
@@ -114,7 +114,7 @@ blockquote.link_externo > a:visited{
     color: aquamarine;
 }
 
-/* Configurações dos botões*/
+/* Configurações dos Botões do cabeçalho */
 
 button{
     font-family: var(--font-normal);
@@ -124,6 +124,10 @@ button{
     font-size: 16px;
     padding: 12px 20px;
     border-color: var(--cor4);
+    transition: all 0 ease;
+}
+button:active{
+    transform: scale(1.3);
 }
 .btn-cabecalho{
     background-image: linear-gradient( to bottom,lightgray, white);
@@ -135,7 +139,6 @@ button{
 }
 .btn-cabecalho:hover{
     background-image: linear-gradient( to bottom, white, lightgray );
-    transition-duration: 2s;
 }
 
 /* Configurações da lista */
@@ -197,6 +200,9 @@ footer{
     text-align: center;
     font-size: 0.8em;
     padding:5px;
+}
+footer p{
+    text-align: center;
 }
 footer a:hover{
     text-decoration: underline;
