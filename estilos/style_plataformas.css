@@ -51,7 +51,7 @@ header > p{
 /* Configuração de fundo */
 
 body{
-    background-image: url("imagens/Fundo_xbox.png");
+    background-image: url("imagens/galaxia.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -111,7 +111,11 @@ blockquote > a:hover{
     text-decoration: underline;
 }
 blockquote.link_externo > a:visited{
-    color: aquamarine;
+    color: rgb(190, 70, 70);
+}
+hr{
+    margin: 30px;
+    color: black;
 }
 
 /* Configurações dos Botões do cabeçalho */

@@ -1,0 +1,208 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+    user-select: none;
+}
+
+:root{
+    --cor0:#ffd079;
+    --cor1:#ffbb00d2;
+    --cor2:#F8BC2D;
+    --cor3:#D99227 ;
+    --cor4:#f3783f;
+    --cor5:#F8502D;
+
+    --font-normal: Arial, Helvetica, sans-serif;
+    --font-padrao:'Courier New', Courier, monospace;
+    --font-destaque: 'Monoton', cursive;
+}
+
+/* Configurações do Cabeçalho */
+
+header{
+    background-color: rgba(80, 33, 7, 0.459);
+    min-height: 150px;
+    text-align: center;
+}
+header > h1{
+    color: white;
+    font-family: var(--font-destaque);
+    font-size: 3em;
+    font-weight: normal;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
+}
+header > p{
+    font-family: var(--font-padrao);
+    font-size: 1.4em;
+    color: white;
+    max-width: 600px;
+    margin: auto;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.479);
+}
+
+/* Configuração de fundo */
+
+body{
+    background-image: url("imagens/paisagem_gamer.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Configurações do Corpo */
+
+body{
+    font-family: var(--font-normal);
+}
+main{
+    background-color: white;
+    min-width: 250px;
+    max-width: 1000px;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.459);
+    border-radius:10px;
+}
+main > h1{
+    text-align: center;
+    font-family: var(--font-padrao);
+    font-size: 2em;
+    margin: 20px;
+    border: 8px solid #f8bb2d93;
+    border-style: groove;
+ }
+main > h2{
+    text-align: center;
+    font-family: var(--font-padrao);
+    font-size: 2em;
+    margin: 20px;
+    border: 8px solid #f8bb2d93;
+    border-style: groove;
+}
+main > h3{
+    font-family: var(--font-padrao);
+    font-size: 2em;
+    text-align: left;
+    text-indent: 60px;
+}
+p{
+    margin: 10px;
+    margin-bottom: 10px;
+    text-indent: 20px;
+    line-height: 2em;
+    text-align: justify;
+}
+a{
+    text-align: justify;
+    text-indent: 20px;
+    font-family: var(--font-normal);
+    text-decoration: none;
+    color: var(--cor5);
+}
+a:hover{
+    color:var(--cor5);
+    transition-duration: 5s;
+    text-decoration: line-through;
+    font-size: 1.1em;
+    text-decoration: underline;
+}
+a:visited{
+    color: rgb(190, 70, 70);
+}
+hr{
+    margin-top: 30px;
+    color: black;
+}
+
+/* Configurações gerais dos Botões */
+
+button{
+    font-family: var(--font-normal);
+    margin: 5px 10px;
+    border: 2px solid black;
+    background-color: white;
+    font-size: 16px;
+    padding: 12px 20px;
+    border-color: var(--cor4);
+    transition: all 0 ease;
+}
+button:active{
+    transform: scale(0.96);
+}
+
+/* Configurações dos Botões do cabeçalho */
+
+nav#cabecalho{
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    display: block;
+}
+
+.btn-cabecalho{
+    background-image: linear-gradient( to bottom,lightgray, white);
+    cursor: pointer;
+    text-align: center;
+    padding: 10px 8px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.63);
+}
+.btn-cabecalho:hover{
+    background-image: linear-gradient( to bottom, white, lightgray );
+    transition: 2s;
+}
+
+/* Configurações dos Botões de Navegação */
+
+div{
+    margin: 25px 15px;
+    display: block;
+    text-align: center;
+}
+.btn-navegacao{
+    background-image: linear-gradient( to bottom,lightgray, white);
+    font-family: var(--font-normal);
+    cursor: pointer;
+    text-align: center;
+    padding: 10px 8px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.63);
+}
+.btn-navegacao:hover{
+    background-image: linear-gradient( to bottom, white, lightgray );
+}
+
+/* Configurações do Rodapé */
+
+footer{
+    background-color: rgba(80, 33, 7, 0.459);
+    color: white;
+    text-align: center;
+    font-size: 0.8em;
+    padding: 5px;
+    margin: auto;
+}
+footer p{
+    text-align: center;
+}
+footer a{
+    text-decoration: none;
+    color: var(--cor0);
+} 
+footer a:hover{
+    text-decoration: underline;
+}
+footer a:visited{
+    color: aquamarine;
+}
