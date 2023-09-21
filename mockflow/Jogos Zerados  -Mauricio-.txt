@@ -7,20 +7,21 @@ NES(Nintendo Entretainement Sistem):3
 NDS(Nintendo Ds):1
 Android:9
 PSP(PlayStation Portable):29
-PS1(Plastation):23
+PS1(Plastation 1):23
 Sega Genesis(Mega Drive):9
-Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):9
+Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):8
 PS2(Playstation 2):8
-PC(Computador):73
+Pc(Computador):74
 Sega Dreamcast:2
 PS3(Playstation 3):71
-Nintendo Gamecube:9
+Nintendo Gamecube:10
 3DS(Nintendo 3DS):2
 Nintendo Wii:9
 Nintendo WiiU:1
-Nintendo Switch:21
+Nintendo Switch:28
 Xcloud:2
-Total:287
+Plastation Vita:1
+Total:312
 
 
 Jogos
@@ -56,10 +57,10 @@ SNES(Super Nintendo):13
 
 GBA(Gameboy Advance):5        
 -Megaman & Bass (Gameboy Advance)
--Summon Night Swordcraft Story(Gba)
--The legend of Zelda The Minish Cap(Gba)
--The legend of Zelda Four Swords (GBA)
--Metroid Zero Mission(GBA)
+-Summon Night Swordcraft Story(Gameboy Advance)
+-The legend of Zelda The Minish Cap(Gameboy Advance)
+-The legend of Zelda Four Swords (Gameboy Advance)
+-Metroid Zero Mission(Gameboy Advance)
 
 
 
@@ -79,7 +80,7 @@ Android:9
 -Modern Combat 4 (Android)
 -Kill The Plumber(Android)
 -Fearless Fantasy(Android)
--Epoch (Anroid)
+-Epoch (Android)
 -Evoland (Android)
 -Chaos Rings 3 (Android)
 -Dead Effect(Android)
@@ -121,7 +122,7 @@ PSP(PlayStation Portable):29
 
 
 
-PS1(Playstation):23            
+PS1(Playstation 1):23            
 -Mega Man X3 (Playstation 1)
 -Mega Man X6 (Playstation 1)  
 -Alundra (Playstation 1) 
@@ -136,32 +137,32 @@ PS1(Playstation):23
 -Mega Man X8 (Playstation 1)
 -Chocobo Racing (Playstation 1)
 -Marvel Vs Capcom Clash Of Super Heroes (Playstation 1)
--Resident Evil 3(Playstation1)                                
+-Resident Evil 3(Playstation 1)                                
 -Resident Evil 2(Leon)(Playstation 1)
 -Resident Evil 2(Claire)Playstation 1)
 -Resident Evil 1(Jill)(Playstation 1)          
--Galerians(Ps1)
--Metal Gear Solid(Ps1)
--Resident Evil Suvirvor(Ps1)
--Parasite Eve(Ps1)
--Crash Bandicoot 3 Warped (Ps1)               
+-Galerians(Playstation 1)
+-Metal Gear Solid(Playstation 1)
+-Resident Evil Suvirvor(Playstation 1)
+-Parasite Eve(Playstation 1)
+-Crash Bandicoot 3 Warped (Playstation 1)               
 
 
 
 Sega Genesis(Mega Drive):9               
--Sonic & Knucles (Genesis)
--Sonic The Hedgehog 2 (Genesis)
--Rocket Knight Adventures (Genesis)
--Sonic 3 & Knucles(Genesis)
--Sonic & Knuckles(Genesis)
--Sonic The Hedgehog(Genesis)
--Dinamyte Headdy(Sega Genesis)
--Alien Storm(Sega Genesis)
--Dr.Robotnik Mean Bean Machine(Sega Genesis)
+-Sonic & Knucles (Mega Drive)
+-Sonic The Hedgehog 2 (Mega Drive)
+-Rocket Knight Adventures (Mega Drive)
+-Sonic 3 & Knucles(Mega Drive)
+-Sonic & Knuckles(Mega Drive)
+-Sonic The Hedgehog(Mega Drive)
+-Dinamyte Headdy(Sega Mega Drive)
+-Alien Storm(Sega Mega Drive)
+-Dr.Robotnik Mean Bean Machine(Sega Mega Drive)
 
 
 
-Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):9
+Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):8
 -Blazing Star (Neo Geo)
 -The King Of Fighters 98 (Neo Geo)
 -Mega Man The Power Fighters (Cps2)
@@ -184,7 +185,8 @@ PS2(Playstation 2):8
 -Crash Mind Over Mutant (Playstation 2)                        
 
 
-PC(Computador):74
+
+PC(Computador):75
 -Megaman X4 (Pc)                   
 -Mega Man X5 (Pc)   
 -Mega Man X8 (PC)
@@ -257,7 +259,9 @@ PC(Computador):74
 -Blazing Chrome(Pc)
 -Panzer Paladin(Pc)
 -Doom(2016) (Pc)
--Super Glitter Rush(Pc)            
+-Super Glitter Rush(Pc)   
+-Prey(2017) (Pc)         
+
 
 
 Sega Dreamcast:2                         
@@ -341,8 +345,7 @@ PS3(Playstation 3):71
 
 
 
-
-Nintendo Gamecube:9                     
+Nintendo Gamecube:10                     
 -Paper Mario The Thousand Year Door(Gamecube)
 -Capcom Vs Snk 2 EO(Gamecube)
 -Metal Gear Solid The Twin Snakes(Gamecube)
@@ -352,8 +355,7 @@ Nintendo Gamecube:9
 -Sonic Heroes(Gamecube)
 -Star Fox Assault(Gamecube)
 -Super Smash Bros Melee(Gamecube)
-
-
+-Pikmin(Gamecube)
 
 
 
@@ -381,7 +383,7 @@ Nintendo WiiU:1
 
 
 
-Nintendo Switch:21                    
+Nintendo Switch:28                    
 -ARMS(Switch)
 -Super Mario Odyssey(Switch)
 -Hyrule Warriors Definitive Edition(Switch)
@@ -401,7 +403,27 @@ Nintendo Switch:21
 -Record of Lodoss War:Deedlith in Wonder Labyrinth(Switch)
 -Hazelnut Hex(Switch)
 -The Legend of Zelda: Link's Awakening(Switch)
+-The Rumble Fish 2(Switch)
+-Resident Evil 6(Leon)(Switch)
+-Resident Evil 6(Chris)(Switch)
+-Resident Evil 6(Jake)(Switch)
+-The Legend of Zelda Breath of the Wild(Switch)
+-Pikmin 4(Switch)
+-Lunistice(Switch)
+-Fight'n Rage(Switch)
+-Samurai Showdown(Switch)
+-Pocky & Rocky Reshrined(Switch)
+
+
 
 Xcloud:2                        
 -Star Wars Jedi Fallen Order(Xcloud)
 -Killer Instinct(Arcade Mode) (Xcloud)               
+
+
+
+Plastation Vita:1
+-Street Fighter X Tekken(Psvita)
+
+
+
