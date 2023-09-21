@@ -84,7 +84,7 @@ button:active{
 /* Configuração de fundo */
 
 body{
-    background-image: url("imagens/Fundo_xbox.png");
+    background-image: url("imagens/galaxia.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
