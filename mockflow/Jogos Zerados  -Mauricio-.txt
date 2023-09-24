@@ -18,10 +18,10 @@ Nintendo Gamecube:10
 3DS(Nintendo 3DS):2
 Nintendo Wii:9
 Nintendo WiiU:1
-Nintendo Switch:28
+Nintendo Switch:29
 Xcloud:2
 Plastation Vita:1
-Total:312
+Total:310
 
 
 Jogos
@@ -154,11 +154,11 @@ Sega Genesis(Mega Drive):9
 -Sonic The Hedgehog 2 (Mega Drive)
 -Rocket Knight Adventures (Mega Drive)
 -Sonic 3 & Knucles(Mega Drive)
--Sonic & Knuckles(Mega Drive)
--Sonic The Hedgehog(Mega Drive)
--Dinamyte Headdy(Sega Mega Drive)
--Alien Storm(Sega Mega Drive)
--Dr.Robotnik Mean Bean Machine(Sega Mega Drive)
+-Sonic & Knuckles (Mega Drive)
+-Sonic The Hedgehog (Mega Drive)
+-Dinamyte Headdy (Mega Drive)
+-Alien Storm (Mega Drive)
+-Dr.Robotnik Mean Bean Machine (Mega Drive)
 
 
 
@@ -383,7 +383,7 @@ Nintendo WiiU:1
 
 
 
-Nintendo Switch:28                    
+Nintendo Switch:29                    
 -ARMS(Switch)
 -Super Mario Odyssey(Switch)
 -Hyrule Warriors Definitive Edition(Switch)
