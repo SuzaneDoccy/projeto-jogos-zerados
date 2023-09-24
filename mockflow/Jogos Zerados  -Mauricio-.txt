@@ -8,7 +8,7 @@ NDS(Nintendo Ds):1
 Android:11
 PSP(PlayStation Portable):30
 PS1(Plastation 1):23
-Sega Genesis(Mega Drive):9
+Sega Genesis(Mega Drive):8
 Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):8
 PS2(Playstation 2):8
 Pc(Computador):74
@@ -16,12 +16,12 @@ Sega Dreamcast:2
 PS3(Playstation 3):71
 Nintendo Gamecube:10
 3DS(Nintendo 3DS):2
-Nintendo Wii:9
+Nintendo Wii:10
 Nintendo WiiU:1
 Nintendo Switch:29
 Xcloud:2
 Plastation Vita:1
-Total:312
+Total:314
 
 
 Jogos
@@ -153,12 +153,11 @@ PS1(Playstation 1):23
 
 
 
-Sega Genesis(Mega Drive):9               
+Sega Genesis(Mega Drive):8               
 -Sonic & Knucles (Mega Drive)
 -Sonic The Hedgehog 2 (Mega Drive)
 -Rocket Knight Adventures (Mega Drive)
 -Sonic 3 & Knucles(Mega Drive)
--Sonic & Knuckles (Mega Drive)
 -Sonic The Hedgehog (Mega Drive)
 -Dinamyte Headdy (Mega Drive)
 -Alien Storm (Mega Drive)
@@ -370,15 +369,16 @@ Nintendo Gamecube:10
 
 
 Nintendo Wii:9                                 
--Super Mario Galaxy(Wii)
--Super Mario Galaxy 2(Wii)
--Links's Crossbow Training(Wii)
--Ghost Squad(Wii)
--The Legend Of Zelda Twilight Princess(Wii)
--Wii Play(Wii)
--Arc Rise Fantasia(Wii)
--The Legend of Zelda Skyward Sword(Wii)
--Kirby Return to Dreamland(Wii)
+-Super Mario Galaxy (Wii)
+-Super Mario Galaxy 2 (Wii)
+-Links's Crossbow Training (Wii)
+-Ghost Squad (Wii)
+-The Legend Of Zelda Twilight Princess (Wii)
+-Wii Play (Wii)
+-Arc Rise Fantasia (Wii)
+-The Legend of Zelda Skyward Sword (Wii)
+-Kirby Return to Dreamland (Wii)
+-Sonic Colors (Wii)
 
 
 
