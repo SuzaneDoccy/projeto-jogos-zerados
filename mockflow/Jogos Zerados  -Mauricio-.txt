@@ -3,10 +3,10 @@
 N64(Nintendo 64):8
 SNES(Super Nintendo):13
 GBA(Gameboy Advance):5
-NES(Nintendo Entretainement Sistem):3
+NES(Nintendo Entretainement Sistem):4
 NDS(Nintendo Ds):1
-Android:9
-PSP(PlayStation Portable):29
+Android:11
+PSP(PlayStation Portable):30
 PS1(Plastation 1):23
 Sega Genesis(Mega Drive):9
 Fliperama(Neogeo,MAME,CPS1,CPS2,Etc):8
@@ -21,7 +21,7 @@ Nintendo WiiU:1
 Nintendo Switch:29
 Xcloud:2
 Plastation Vita:1
-Total:310
+Total:312
 
 
 Jogos
@@ -68,6 +68,7 @@ NES(Nintendo Entretainement Sistem):3
 -Castlevania (Nes)
 -Jackie Chan Action Kung Fu (Nes)
 -Contra (Nes)
+-Ninja Gaiden (Nes)
 
 
 
@@ -76,16 +77,18 @@ NDS(Nintendo Ds):1
 
 
 
-Android:9                
+Android:11                
 -Modern Combat 4 (Android)
--Kill The Plumber(Android)
--Fearless Fantasy(Android)
+-Kill The Plumber (Android)
+-Fearless Fantasy (Android)
 -Epoch (Android)
 -Evoland (Android)
 -Chaos Rings 3 (Android)
--Dead Effect(Android)
--Adventures of Tintin(Android)
--Atack The Light(Android)
+-Dead Effect (Android)
+-Adventures of Tintin (Android)
+-Atack The Light (Android)
+-Sonic 4 Episode 1 (Android)
+-Sonic 4 Episode 2 (Android)
 
 
 
@@ -119,6 +122,7 @@ PSP(PlayStation Portable):29
 -Cave Story(PSP)
 -Dragon Ball Z Shin Budokai(Psp)
 -Mega Man X (Psp)
+Saint Seiya Omega (Psp)
 
 
 
