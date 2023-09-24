@@ -2,7 +2,7 @@
 
 N64(Nintendo 64):8 
 SNES(Super Nintendo):13 
-GBA(Gameboy Adance):5 
+GBA(Gameboy Advance):5 
 NES(Nintendo Entretainement Sistem):4 
 NDS(Nintendo Ds):1 
 Android:11 
